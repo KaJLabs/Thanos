@@ -1,4 +1,4 @@
-# Wallet Platform Monorepo
+# Thanos Wallet
 
 Monorepo for a Lithosphere-first multi-platform wallet suite with publishable SDK packages, a CLI, and backend APIs.
 
