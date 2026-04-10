@@ -47,4 +47,4 @@ pnpm --filter @thanos/cli dev -- health
 
 ## Important production note
 
-This repository is production-oriented, but not yet fully audited. Before public launch, replace file-backed persistence with managed database-backed auth and authorization, complete the remaining hardware signing transports, validate final Lithic runtime RPC methods, and run external security review.
+
