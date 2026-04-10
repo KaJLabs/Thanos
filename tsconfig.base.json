@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "lib": ["ES2022", "DOM", "DOM.Iterable"],
+    "module": "ESNext",
+    "moduleResolution": "Bundler",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "resolveJsonModule": true,
+    "declaration": true,
+    "jsx": "react-jsx",
+    "baseUrl": ".",
+    "paths": {
+      "@thanos/sdk-core": ["packages/sdk-core/src"],
+      "@thanos/sdk-react": ["packages/sdk-react/src"],
+      "@thanos/ui": ["packages/ui/src"]
+    }
+  }
+}
